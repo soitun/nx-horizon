@@ -19,8 +19,9 @@
 ## Supported platforms
 
   + NX Horizon is platform-agnostic and is supported on all available platforms
-  + Tested on: XE4, 10.3.3 Rio, 10.4.2 Sydney, and 11.1 Alexandria, but it should work on 
-    other versions between XE4 and the current version using classic compiler.
+  + Tested on: XE4, 10.3.3 Rio, 10.4.2 Sydney, 11.3 Alexandria, 12.3 Athens, and
+    13.0 Florence, but it should also work on other versions between XE4 and the
+    current Delphi version using classic compiler.
 
 ## Basic usage
 
